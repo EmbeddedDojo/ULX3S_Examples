@@ -16,6 +16,3 @@ module hex2bin_decoder(input      [3:0] hex,
          endcase
        end
 endmodule
-
-
-/* iverilog hex2bin_decoder_tb.v hex2bin_decoder.v -o tb.out */
