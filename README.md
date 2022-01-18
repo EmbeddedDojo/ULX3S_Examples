@@ -6,7 +6,7 @@ Repository containing examples for the ULX3S board.
 
 Some ideas to test:
 
-+ [ ] Clock generation using PLLs
++ [x] Clock generation using PLLs
 + [ ] Use US2 for serial communication
 + [ ] Use ESP32 WiFi for data transmission
 + [ ] Litex for SoC generation
